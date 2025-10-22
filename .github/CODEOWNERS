@@ -1,0 +1,13 @@
+# Software Design
+/software_design/frontend/   @frontend-team
+/software_design/backend/    @backend-team
+
+# Web Designer
+/web_platform/               @web-team
+
+# AI and Linux
+/linux_and_ai_design/ai_module/     @ai-team
+/linux_and_ai_design/linux_module/  @linux-team
+
+# Documentation
+/docs/   @docs-team
